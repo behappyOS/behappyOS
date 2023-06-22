@@ -1,4 +1,4 @@
-# Hi! I'm Gabriel <img src="https://png.pngtree.com/png-vector/20220806/ourmid/pngtree-processor-vector-png-image_6101043.png" style="right: 180px; top:8px; position: absolute" width="200px">
+# Hi! I'm Gabriel <img src="https://png.pngtree.com/png-vector/20220806/ourmid/pngtree-processor-vector-png-image_6101043.png" style="right: 180px; top:6px; position: absolute" width="200px">
 <br>
 <br>
 <br>
