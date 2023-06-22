@@ -1,4 +1,4 @@
-# Hi! I'm Gabriel <img src="https://png.pngtree.com/png-vector/20220806/ourmid/pngtree-processor-vector-png-image_6101043.png" width="60px">
+# Hi! I'm Gabriel <img src="https://png.pngtree.com/png-vector/20220806/ourmid/pngtree-processor-vector-png-image_6101043.png" width="100px">
 
 <span>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=behappyOS&show_icons=true&count_private=true&theme=synthwave&hide=issues&hide_border=true&line_height=24&layout=compact&tsdsfs=sdfdsf" />
