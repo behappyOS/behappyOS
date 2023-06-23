@@ -11,7 +11,7 @@
 </span>
 <div>&nbsp;</div>
 
-💻 I'm a Software developer, and I've been working as a Full-stack developer since 2020.
+💻 I'm a Software developer, and I've been working as a dev since 2020.
 
 🗒️ I am a person who likes to learn a lot, I am always looking for new knowledge, I always try to give the best of myself, knowledge is never too much, I like to take on challenges that can make me better every day in my professional and personal life
 
