@@ -15,7 +15,7 @@
 
 🗒️ I am a person who likes to learn a lot, I am always looking for new knowledge, I always try to give the best of myself, knowledge is never too much, I like to take on challenges that can make me better every day in my professional and personal life
 
-🍄 I really like... 
+🍄 My Stack's... 
 
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
