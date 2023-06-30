@@ -20,5 +20,6 @@
 ![](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![](https://img.shields.io/badge/PHP-777BB3?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/MYSQL-3E6E93?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/docker-003f8c?style=for-the-badge&logo=docker&logoColor=white)
 
 See ya 👋
